@@ -1,0 +1,72 @@
+[
+   
+  {
+   "id":"1",
+   "nombre":"atomo",
+   "precio":"1000",
+   "img":"./images/atomo.jpg",
+   "descr":"Colgante Atomo Deco Vintage 1 Luz E27 Apto Led"
+  },
+
+  {
+   "id":"2",
+   "nombre":"cubo",
+   "precio":"1200",
+   "img":"./images/cubo.jpg",
+   "descr":"Colgante cubo Deco Vintage 1 Luz E27 Apto Led"
+  },
+
+  {
+   "id":"3",
+   "nombre":"cilindro",
+   "precio":"800",
+   "img":"./images/cilindro.jpg",
+   "descr":"Colgante cilindro Deco Vintage 1 Luz E27 Apto Led"
+  },
+
+  {
+   "id":"4",
+   "nombre":"jaula",
+   "precio":"1100",
+   "img":"./images/jaula.jpg",
+   "descr":"Colgante cubo Diamante Deco Vintage 1 Luz E27 Apto Led"
+  },
+
+  {
+   "id":"5",
+   "nombre":"minimal",
+   "precio":"750",
+   "img":"./images/minimal.jpg",
+   "descr":"Colgante minimal Deco Vintage 1 Luz E27 Apto Led"
+  }
+  ,
+
+  {
+   "id":"6",
+   "nombre":"estrella",
+   "precio":"1200",
+   "img":"./images/estrella.jpg",
+   "descr":"Colgante estrella Deco Vintage 1 Luz E27 Apto Led"
+  },
+
+  {
+   "id":"7",
+   "nombre":"diamante",
+   "precio":"1500",
+   "img":"./images/diamante.jpg",
+   "descr":"Colgante diamante Deco Vintage 1 Luz E27 Apto Led"
+  },
+
+  {
+   "id":"8",
+   "nombre":"rombo",
+   "precio":"1200",
+   "img":"./images/rombo.jpg",
+   "descr":"Colgante rombo Deco Vintage 1 Luz E27 Apto Led"
+  }
+  
+  
+
+
+
+]
